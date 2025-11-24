@@ -5,7 +5,7 @@ Used for local Archive API and and Cantaloupe.
 
 ## Development
 
-Rename .env.testing to .env amek your changes and start the container:
+Rename .env.testing to .env, make your changes and start the container:
 
 	$ docker compose up -d
 
